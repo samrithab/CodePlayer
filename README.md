@@ -1,2 +1,4 @@
 # CodePlayer
-Converts script written in Html, CSS and JavaScript and outputs it to the "output" panel
+Technologies Used: HTML, CSS, JavaScript, jQuery
+
+Converts script written in HTML, CSS and JavaScript and outputs it to the "output" panel
